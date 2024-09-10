@@ -19,7 +19,7 @@ import { Router } from '@angular/router';
     ReactiveFormsModule, 
     MatFormFieldModule, 
     MatInputModule, 
-    MatButtonModule
+    MatButtonModule,
   ],
   templateUrl: './create.component.html',
   styleUrl: './create.component.scss'
