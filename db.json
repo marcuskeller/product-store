@@ -1,24 +1,3 @@
 {
-  "products": [
-    {
-      "id": "d5c3",
-      "title": "Marcus"
-    },
-    {
-      "id": "6609",
-      "title": "Camiseta"
-    },
-    {
-      "id": "28e1",
-      "title": "Blusa"
-    },
-    {
-      "id": "3641",
-      "title": "Moletom"
-    },
-    {
-      "id": "21b7",
-      "title": "Teste 2"
-    }
-  ]
+  "products": []
 }
