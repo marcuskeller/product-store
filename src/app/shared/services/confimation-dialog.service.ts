@@ -2,8 +2,6 @@ import { Component, inject, Injectable } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
 import { MatDialog, MatDialogModule, MatDialogRef } from '@angular/material/dialog';
 import { Observable } from 'rxjs';
-import { filter } from 'rxjs/operators';
-
 
 @Component({
   selector: 'app-confirmation-dialog',
